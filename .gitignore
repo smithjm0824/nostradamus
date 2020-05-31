@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ConfigParser Configuration File
+/tweet_net/config.ini
