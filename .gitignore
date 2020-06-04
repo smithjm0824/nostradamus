@@ -130,3 +130,4 @@ dmypy.json
 
 # ConfigParser Configuration File
 /tweet_net/config.ini
+./.idea
