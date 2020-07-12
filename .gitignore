@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # ConfigParser Configuration File
-/tweet_net/config.ini
+/config.ini
 .idea

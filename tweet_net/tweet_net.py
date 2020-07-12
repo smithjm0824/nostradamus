@@ -8,7 +8,7 @@ from domain.Users import User, Users
 from domain.Tweets import Tweet
 
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('../config.ini')
 
 app_key = config['RAPIDAPI']['api_key']
 consumer_key = config['KEYS']['api_key']
