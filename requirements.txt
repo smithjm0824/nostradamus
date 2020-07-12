@@ -1,0 +1,9 @@
+## Tweet_Net requirments
+tweepy >= 3.8
+botometer
+textblob
+redis >= 3.5.2
+
+## Stock_Watch requirements
+alpaca_trade_api
+
