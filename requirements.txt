@@ -1,9 +1,16 @@
 ## Tweet_Net requirments
 tweepy >= 3.8
-botometer
-textblob
+botometer~=1.5
+textblob~=0.15.3
 redis >= 3.5.2
 
 ## Stock_Watch requirements
 alpaca_trade_api
-
+td-ameritrade-python-api
+pytz~=2020.1
+psycopg2-binary
+sqlalchemy~=1.3.18
+pandas-datareader
+pandas~=1.0.5
+aiohttp~=3.6.2
+numpy~=1.19.0
